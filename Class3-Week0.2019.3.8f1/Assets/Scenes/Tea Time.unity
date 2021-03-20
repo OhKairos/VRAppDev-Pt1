@@ -2169,7 +2169,7 @@ MonoBehaviour:
   m_UpdateTrackingType: 0
   m_EnableInputTracking: 1
   m_EnableInputActions: 1
-  m_ModelPrefab: {fileID: 8428564749852175325, guid: 429ec68f3544d174b9dd06fe9b71aa81,
+  m_ModelPrefab: {fileID: 5514401360378034524, guid: b3cbd3f16744670439b44778d918f023,
     type: 3}
   m_ModelTransform: {fileID: 0}
   m_AnimateModel: 0
@@ -2390,7 +2390,7 @@ MonoBehaviour:
   m_UpdateTrackingType: 0
   m_EnableInputTracking: 1
   m_EnableInputActions: 1
-  m_ModelPrefab: {fileID: 8428564749852175325, guid: 429ec68f3544d174b9dd06fe9b71aa81,
+  m_ModelPrefab: {fileID: 5514401360378034524, guid: f2efdd2556ede2f40a28b518fb7ebc0e,
     type: 3}
   m_ModelTransform: {fileID: 0}
   m_AnimateModel: 0
@@ -2483,7 +2483,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1166007700}
   m_Layer: 0
-  m_Name: Empty
+  m_Name: Stone Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
