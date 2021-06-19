@@ -229,7 +229,7 @@ GameObject:
   - component: {fileID: 34887456}
   - component: {fileID: 34887455}
   - component: {fileID: 34887454}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Teleportation Anchor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -725,7 +725,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 373530299}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Platforms
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -878,7 +878,7 @@ GameObject:
   - component: {fileID: 470388187}
   - component: {fileID: 470388186}
   - component: {fileID: 470388185}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Cube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6436,7 +6436,7 @@ GameObject:
   - component: {fileID: 672090999}
   - component: {fileID: 672090998}
   - component: {fileID: 672090997}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Cube (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6786,7 +6786,7 @@ GameObject:
   - component: {fileID: 789165511}
   - component: {fileID: 789165510}
   - component: {fileID: 789165509}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Teleportation Area
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6928,7 +6928,7 @@ GameObject:
   - component: {fileID: 866531553}
   - component: {fileID: 866531552}
   - component: {fileID: 866531551}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Cube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7140,7 +7140,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 892084614}
   m_LocalRotation: {x: -0, y: -0.9920518, z: -0, w: 0.12583025}
-  m_LocalPosition: {x: 0, y: 1.44, z: 0}
+  m_LocalPosition: {x: 0, y: 100, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 434661296}
@@ -7326,6 +7326,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 1
   inputSource: 4
+  gravity: -9.81
+  groundLayer:
+    serializedVersion: 2
+    m_Bits: 512
 --- !u!1001 &917061912
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8109,7 +8113,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 969024267}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Teleport Areas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13434,7 +13438,7 @@ GameObject:
   - component: {fileID: 1272548346}
   - component: {fileID: 1272548345}
   - component: {fileID: 1272548344}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Cube (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14739,7 +14743,7 @@ GameObject:
   - component: {fileID: 1683819617}
   - component: {fileID: 1683819616}
   - component: {fileID: 1683819615}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Cube (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16142,7 +16146,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1965098467}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Anchor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
