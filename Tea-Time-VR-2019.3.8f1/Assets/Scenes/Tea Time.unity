@@ -229,7 +229,7 @@ GameObject:
   - component: {fileID: 34887456}
   - component: {fileID: 34887455}
   - component: {fileID: 34887454}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Teleportation Anchor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -725,7 +725,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 373530299}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Platforms
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -878,7 +878,7 @@ GameObject:
   - component: {fileID: 470388187}
   - component: {fileID: 470388186}
   - component: {fileID: 470388185}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Cube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6436,7 +6436,7 @@ GameObject:
   - component: {fileID: 672090999}
   - component: {fileID: 672090998}
   - component: {fileID: 672090997}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Cube (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6786,7 +6786,7 @@ GameObject:
   - component: {fileID: 789165511}
   - component: {fileID: 789165510}
   - component: {fileID: 789165509}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Teleportation Area
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6928,7 +6928,7 @@ GameObject:
   - component: {fileID: 866531553}
   - component: {fileID: 866531552}
   - component: {fileID: 866531551}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Cube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7105,6 +7105,9 @@ GameObject:
   - component: {fileID: 892084620}
   - component: {fileID: 892084619}
   - component: {fileID: 892084621}
+  - component: {fileID: 892084623}
+  - component: {fileID: 892084622}
+  - component: {fileID: 892084624}
   m_Layer: 0
   m_Name: VR Rig
   m_TagString: Untagged
@@ -7138,7 +7141,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 892084614}
   m_LocalRotation: {x: -0, y: -0.9920518, z: -0, w: 0.12583025}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 10, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 434661296}
@@ -7152,7 +7155,7 @@ AudioSource:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 892084614}
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 8aa659f0abdfe16429df1b29072b5a76, type: 3}
@@ -7292,6 +7295,64 @@ MonoBehaviour:
   rightTeleportRay: {fileID: 1448591076}
   teleportActivationButton: 2
   activationThreshold: 0.1
+--- !u!143 &892084622
+CharacterController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 892084614}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Height: 2
+  m_Radius: 0.15
+  m_SlopeLimit: 45
+  m_StepOffset: 0.3
+  m_SkinWidth: 0.08
+  m_MinMoveDistance: 0.001
+  m_Center: {x: 0, y: 1, z: 0}
+--- !u!114 &892084623
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 892084614}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ab61feaf734de640bb77220247d2d83, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 1
+  inputSource: 4
+  gravity: -9.81
+  groundLayer:
+    serializedVersion: 2
+    m_Bits: 512
+  additionalHeight: 0.2
+--- !u!114 &892084624
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 892084614}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc4f2c0214c9b494fa7eb5b8b2c02885, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_System: {fileID: 892084620}
+  m_TurnAmount: 45
+  m_DebounceTime: 0.2
+  m_EnableTurnLeftRight: 1
+  m_EnableTurnAround: 1
+  m_TurnUsage: 0
+  m_Controllers:
+  - {fileID: 1097457604}
+  m_DeadZone: 0.75
 --- !u!1001 &917061912
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8075,7 +8136,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 969024267}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Teleport Areas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13400,7 +13461,7 @@ GameObject:
   - component: {fileID: 1272548346}
   - component: {fileID: 1272548345}
   - component: {fileID: 1272548344}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Cube (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14705,7 +14766,7 @@ GameObject:
   - component: {fileID: 1683819617}
   - component: {fileID: 1683819616}
   - component: {fileID: 1683819615}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Cube (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16108,7 +16169,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1965098467}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Anchor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
