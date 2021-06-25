@@ -7016,10 +7016,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 700835971}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0ad34abafad169848a38072baa96cdb2, type: 3}
+  m_Script: {fileID: 11500000, guid: cfb5cccbe3133d44bb69060ced4b0725, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_InteractionManager: {fileID: 0}
+  m_InteractionManager: {fileID: 507765245}
   m_Colliders: []
   m_InteractionLayerMask:
     serializedVersion: 2
@@ -8216,10 +8216,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 960412172}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0ad34abafad169848a38072baa96cdb2, type: 3}
+  m_Script: {fileID: 11500000, guid: cfb5cccbe3133d44bb69060ced4b0725, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_InteractionManager: {fileID: 0}
+  m_InteractionManager: {fileID: 507765245}
   m_Colliders: []
   m_InteractionLayerMask:
     serializedVersion: 2
