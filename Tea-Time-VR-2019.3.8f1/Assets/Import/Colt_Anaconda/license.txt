@@ -1,0 +1,11 @@
+Model Information:
+* title:	Colt Anaconda
+* source:	https://sketchfab.com/3d-models/colt-anaconda-7ab9aeea3efa4cbd83561002a50111cf
+* author:	Mortum (https://sketchfab.com/redsmortum)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Colt Anaconda" (https://sketchfab.com/3d-models/colt-anaconda-7ab9aeea3efa4cbd83561002a50111cf) by Mortum (https://sketchfab.com/redsmortum) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
