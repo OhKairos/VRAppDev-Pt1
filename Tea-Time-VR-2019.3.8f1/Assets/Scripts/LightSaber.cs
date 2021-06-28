@@ -9,6 +9,13 @@ public class LightSaber : MonoBehaviour
     // Start is called before the first frame update
     public void TurnOnSaber() {
         LightSaberAnimator.SetTrigger("Turn Lightsaber On");
+        LightSaberAnimator.ResetTrigger("Turn Lightsaber Off");
+    }
+
+    public void TurnOffSaber()
+    {
+        LightSaberAnimator.SetTrigger("Turn Lightsaber Off");
+        LightSaberAnimator.ResetTrigger("Turn Lightsaber On");
     }
 
 }
