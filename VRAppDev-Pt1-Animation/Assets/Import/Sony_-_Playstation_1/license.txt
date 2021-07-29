@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sony - Playstation 1
+* source:	https://sketchfab.com/3d-models/sony-playstation-1-6934760427704b7c93d9a2db63d952c8
+* author:	rbuggie09 (https://sketchfab.com/rbuggie09)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sony - Playstation 1" (https://sketchfab.com/3d-models/sony-playstation-1-6934760427704b7c93d9a2db63d952c8) by rbuggie09 (https://sketchfab.com/rbuggie09) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
