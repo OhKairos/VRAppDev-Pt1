@@ -1,0 +1,187 @@
+This project uses the following items from Poly (http://poly.google.com):
+
+Title: 4 me sword
+Author: Isaac Balliet
+URL: https://poly.google.com/view/76TZtaN0feJ
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Apartment building
+Author: Poly by Google
+URL: https://poly.google.com/view/01lqee-dZAr
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: blocks
+Author: Tripp Art
+URL: https://poly.google.com/view/4eTcpIB4HJe
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: bowie knife
+Author: Marisha
+URL: https://poly.google.com/view/59cMoRQXX6O
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Candy
+Author: Poly by Google
+URL: https://poly.google.com/view/5Yt3BnZ47s7
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Cinema
+Author: Poly by Google
+URL: https://poly.google.com/view/dld8Okgvz4V
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Clock
+Author: Poly by Google
+URL: https://poly.google.com/view/31XZ7p2-c1q
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Earth
+Author: Poly by Google
+URL: https://poly.google.com/view/58PjkXNdpPb
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Gears
+Author: Poly by Google
+URL: https://poly.google.com/view/4hAw8zQHeMJ
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Greenhouse in construction
+Author: Frank Lynam
+URL: https://poly.google.com/view/cT-IiR73hiQ
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Guilded Sword
+Author: Thomas de Rivaz
+URL: https://poly.google.com/view/3X8-y2rW5cf
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: HTC Vive Headset
+Author: Marco Romero
+URL: https://poly.google.com/view/6ZPbRl78eRZ
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: JimJamz_Sword
+Author: Jimi Youm
+URL: https://poly.google.com/view/aaLM8M_R7x1
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Katana Sword
+Author: Nick Ladd
+URL: https://poly.google.com/view/7Ly4_Ou8HXK
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Keyblade
+Author: Selina Harshbarger
+URL: https://poly.google.com/view/8BmZj3ZiC4c
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Master Sword
+Author: xigo nek
+URL: https://poly.google.com/view/d1ObkvlzSk-
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Mi Casa Skeleton Key
+Author: VR XRTIST
+URL: https://poly.google.com/view/2MSOSmhgQKH
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: NYC subway _ IRT R17
+Author: Luke Jaeger
+URL: https://poly.google.com/view/emxWMc5ZSG4
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Random Gears and Columns
+Author: Francis Chen
+URL: https://poly.google.com/view/7GFuhoNPxsw
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: RLab-Arrow
+Author: Samuel Lee
+URL: https://poly.google.com/view/bPnraX-6zV6
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Roman Sword by Griff
+Author: Gateway VR Studio
+URL: https://poly.google.com/view/6o47yKm0fk0
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Shrek
+Author: Cringy Boi
+URL: https://poly.google.com/view/274Z2C7yCix
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Simple computer
+Author: Robert Schlyter
+URL: https://poly.google.com/view/doMMnviJrGi
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Skyscraper
+Author: Poly by Google
+URL: https://poly.google.com/view/5mOW8KZSHtU
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Skyscrapers
+Author: Poly by Google
+URL: https://poly.google.com/view/6DJeZaACYpm
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Star
+Author: Poly by Google
+URL: https://poly.google.com/view/5hrwvzpCArU
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Sword
+Author: Chris Lee
+URL: https://poly.google.com/view/2TGcPBw1noz
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Sword
+Author: Julien Savoie
+URL: https://poly.google.com/view/7ePTd06H09-
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Sword Gold
+Author: Chris Lee
+URL: https://poly.google.com/view/4PycMjNjYIi
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Tri Sword
+Author: Venom_1462
+URL: https://poly.google.com/view/05rZEfpZcdW
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Two handed sword
+Author: Thomas de Rivaz
+URL: https://poly.google.com/view/1FbDVyCif4Z
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Target Poster
+* source:	https://sketchfab.com/3d-models/target-poster-cc1f88455e2e44ce882cfb88886c0db7
+* author:	DailynSastro (https://sketchfab.com/DailynSastro)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Target Poster" (https://sketchfab.com/3d-models/target-poster-cc1f88455e2e44ce882cfb88886c0db7) by DailynSastro (https://sketchfab.com/DailynSastro) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
