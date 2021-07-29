@@ -17,7 +17,7 @@ TryUniverse-WorldBuilding-Animation
 * [Part-1 Week-1 (Create Grabbable Objects)](https://www.youtube.com/watch?v=JBgoxzRgauA)
 * [Part-1 Week-2 (Add Hand Models with Adjustable Fingers)](https://www.youtube.com/watch?v=cOVXVOiQ1nE)
 * [Part-1 Week-3 (Add Teleporting)](https://www.youtube.com/watch?v=yk06ioeeuHM)
-* [Part-2 Week-1 (Add Snap Turning)](https://www.youtube.com/watch?v=S4DNI0fv5Vc)
+* [Part-2 Week-1 (Add Continuous Movement and Snap Turning)](https://www.youtube.com/watch?v=S4DNI0fv5Vc)
 * [Part-2 Week-2 (Add Dynamic Object Turning and Gun Physics)](https://www.youtube.com/watch?v=apY3uHlQ41E)
 * [Part-2 Week-3 (Add Lightsaber with Animation and Gun Sound Effects)](https://www.youtube.com/watch?v=HVSrAv7Q3aA)
 
